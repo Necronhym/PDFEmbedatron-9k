@@ -1,0 +1,7 @@
+python Hider.py <FileToEmbedInTo.pdf> <File to Embed> <OutputFileName.pdf>
+
+python Hider.py tutorial.pdf DOOM2.WAD TutorialWad.pdf
+
+
+python Extracter.py <FileToExtractFrom.pdf>
+python Extracter.py embedded_tutorial.pdf
